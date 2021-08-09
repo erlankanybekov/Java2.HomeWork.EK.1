@@ -16,8 +16,7 @@ public class Main {
     bird2.Fly();
         System.out.println("_________________________________");
 
-    //ObjectC
-    MotherLand motherLand1 = new MotherLand("Russia");
+    //ObjectС
     Bird bird3 = new Bird("Kesha","10 тыс.",Color.Blue);
         System.out.println(bird3.getInfo());
     bird3.Sitting();
